@@ -14,3 +14,6 @@ je suis another-dev et je dev une autre fonctionnalité intéressante
 fonct dev côté stream86
 fonctionnalité test
 
+feature en cours de dev
+autre feature
+
