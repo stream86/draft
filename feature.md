@@ -7,5 +7,5 @@ test
 feature updated from stream86
 feature updated from another-dev
 
-
 je suis stream86 et je dev la toute derniere fonctionnalité
+je suis another-dev et je dev une autre fonctionnalité intéressante
