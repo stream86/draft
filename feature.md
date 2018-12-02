@@ -22,4 +22,5 @@ toute derniere modif
 
 function test(){
 	$test=0;
+	$other_var=0;
 }
