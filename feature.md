@@ -21,5 +21,5 @@ toute derniere modif
 
 
 function test(){
-	
+	$test=0;
 }
